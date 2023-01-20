@@ -1,0 +1,15 @@
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/bin/Debug/net7.0/seminar4_3
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/bin/Debug/net7.0/seminar4_3.deps.json
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/bin/Debug/net7.0/seminar4_3.runtimeconfig.json
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/bin/Debug/net7.0/seminar4_3.dll
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/bin/Debug/net7.0/seminar4_3.pdb
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.AssemblyInfo.cs
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.dll
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/refint/seminar4_3.dll
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.pdb
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/seminar4_3.genruntimeconfig.cache
+/Users/renat/Desktop/Учеба/DZ/seminar4_3/obj/Debug/net7.0/ref/seminar4_3.dll
